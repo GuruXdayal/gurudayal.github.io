@@ -126,7 +126,7 @@ https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 ## 💼 **Professional Experience**
 
 ### **Senior Analyst — R1 RCM (2021–2024)**
-- Managed 80%+ daily claim status checks with full HIPAA compliance :contentReference[oaicite:1]{index=1}  
+- Managed 80%+ daily claim status checks with full HIPAA compliance   
 - Improved claim resolution efficiency by **75%**  
 - Performed root-cause reviews and escalations  
 - Handled PHI with complete data-security rigor  
@@ -134,7 +134,7 @@ https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 ### **Junior Technician — GOCL Corporation LTD. (2019–2021)**
 - Conducted **20+ inspections weekly** on PCB/electronic systems  
 - Achieved **95% compliance** in QA testing  
-- Identified anomalies and supported engineering investigations :contentReference[oaicite:2]{index=2}  
+- Identified anomalies and supported engineering investigations  
 
 ---
 
@@ -145,7 +145,7 @@ https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 ---
 
 ## 🏆 **Certifications**
-- **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) :contentReference[oaicite:3]{index=3}  
+- **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) 
 - **Cisco — Introduction to Cybersecurity**  
 - **TryHackMe — Cybersecurity 101**  
 - **TryHackMe — SOC Level 1**  
