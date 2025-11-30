@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Welcome"
+permalink: /
+---
+
 # 👋 Hi, I'm **Guru Dayal**
 ### **SOC Analyst | Security Monitoring & Incident Response | Threat Hunter**
 
