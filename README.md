@@ -23,6 +23,8 @@ I’m actively seeking roles such as:
 
 I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
 
+🔎 [View Projects](/projects/) — Featured SOC labs & hunts
+
 ---
 
 ## 🛠️ **Technical Skills**
