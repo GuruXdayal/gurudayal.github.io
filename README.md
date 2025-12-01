@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 <p align="center">
   <img src="/assets/images/banners/hero.png" alt="Hero Banner" style="width:50%; border-radius:8px;">
 </p>
