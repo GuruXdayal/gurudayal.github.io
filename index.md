@@ -40,8 +40,37 @@ I build hands-on cybersecurity labs focused on detection engineering, simulating
 
 ---
 
+## 🧑‍💻 **About Me**
+I’m a cybersecurity practitioner with a strong interest in **blue-team security**, specializing in **SIEM operations, threat hunting, incident triage, detection engineering, and automation**.  
+
+My background in **Electronics Manufacturing** and **Healthcare RCM** has shaped me into someone who is:
+- Extremely **detail-oriented**
+- Strong in **analytical thinking**
+- Comfortable handling **sensitive information (HIPAA)**
+- Skilled at **investigation, troubleshooting, and structured problem-solving**
+- Capable of adapting across *multiple industries* — which makes my approach to cybersecurity unique.
+
+I’m actively seeking roles such as:
+- **SOC Analyst L1**
+- **Security Analyst**
+- **Cybersecurity Operations / Blue Team roles**
+
+I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
+
+---
+
 ## 🔍 Portfolio Purpose
 A blue-team–focused portfolio highlighting my work in detection engineering, threat hunting, automation, and SOC operations — aimed at showcasing job-ready skills for SOC L1 and Security Analyst roles.
+
+Each project includes:  
+✔ Attack Simulation  
+✔ MITRE ATT&CK Mapping  
+✔ Telemetry Analysis  
+✔ Hunting Queries  
+✔ Detection Validation  
+✔ Analyst Notes  
+✔ Screenshots  
+✔ Full Documentation  
 
 ---
 
@@ -82,7 +111,8 @@ https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 ---
 
 ## 🛠️ Skills & Tools
-- **Security Operations:** SIEM (Wazuh), detection engineering, threat hunting, incident triage  
+- **Security Operations:** SIEM (Wazuh), detection engineering, threat hunting, incident triage
+- **Networking Fundamentals:** TCP/UDP, DNS, HTTP. Packet analysis & flow investigation  
 - **Telemetry & Analysis:** Sysmon, Windows Event Logs, auditd, osquery, Suricata  
 - **Automation & Enrichment:** n8n, VirusTotal API, Python scripting  
 - **Platforms:** Windows, Ubuntu, Kali Linux, VMware  
