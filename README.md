@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="/assets/images/banners/hero.png" alt="Hero Banner" style="width:50%; border-radius:8px;">
+</p>
+
 # 👋 Hi, I'm **Guru Dayal**
+
 ### **SOC Analyst | Security Monitoring & Incident Response | Threat Hunter**
 
 I build **hands-on cybersecurity labs** focused on *detection engineering, simulating real attacks, automation, and threat hunting* across Windows & Linux environments.  
