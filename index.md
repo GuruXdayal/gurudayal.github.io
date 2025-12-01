@@ -86,8 +86,6 @@ Each project includes:
 ✔ Screenshots  
 ✔ Full Documentation  
 
----
-
 ### 🔹 **1. SOC Home Lab — Wazuh + Sysmon + Suricata**
 **Tagline:** *End-to-end SOC lab simulating four real attacks for detection engineering & threat hunting.*
 
@@ -96,8 +94,6 @@ Each project includes:
 - Performed ATT&CK-aligned threat hunts
 
 📂 **Repo:** https://github.com/GuruXdayal/SOC-Home-Lab
-
----
 
 ### 🔹 **2. Automated AlertFlow — n8n + Wazuh SOAR Pipeline**
 **Tagline:** *Automated malware hash enrichment, file quarantine, and SOC reporting.*
@@ -108,8 +104,6 @@ Each project includes:
 
 📂 **Repo:**  
 https://github.com/GuruXdayal/Automated-AlertFlow-Enrichment-Response-with-n8n-and-Wazuh
-
----
 
 ### 🔹 **3. Endpoint Threat Hunting — Wazuh + Sysmon**
 **Tagline:** *Three deep-dive hunts: LSASS dump, PowerShell LOLBAS, malicious file execution.*
