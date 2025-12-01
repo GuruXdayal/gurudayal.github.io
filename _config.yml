@@ -1,44 +1,5 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-
-title: "Guru Dayal — SOC Analyst | Threat Hunter"
-description: "Hands-on cybersecurity portfolio showcasing detection engineering, threat hunting, and automation."
-
-# Theme skin
-minimal_mistakes_skin: "air"
-
-author:
-  name: "Guru Dayal"
-  bio: "Building practical cyber labs to master real-world incident workflows."
-  avatar: ""   # leave empty for now (no image needed)
-
-# Navigation
-nav:
-  - title: "Home"
-    url: "/"
-
-# Social icons in sidebar
-social:
-  - label: "LinkedIn"
-    icon: fab linkedin
-    url: "https://www.linkedin.com/in/gurudayal-cybersecurity/"
-  - label: "GitHub"
-    icon: fab github
-    url: "https://github.com/GuruXdayal"
-  - label: "Email"
-    icon: fas envelope
-    url: "mailto:gurudayal132@gmail.com"
-
-# Sidebar toggle ON
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      sidebar:
-        nav: ""
-        show: true
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Guru Dayal]
+description: [A blue-team focused portfolio highlighting my work in detection engineering, threat hunting, and security operations.]
