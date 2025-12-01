@@ -7,13 +7,6 @@ permalink: /
 <!-- Link custom CSS -->
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<!-- SEO / Social Preview (OpenGraph + Twitter) -->
-<meta property="og:title" content="Guru Dayal — SOC Analyst & Threat Hunter">
-<meta property="og:description" content="Hands-on cybersecurity portfolio: detection engineering, threat hunting, and automation with Wazuh, Sysmon and n8n.">
-<meta property="og:image" content="/assets/images/banners/hero.png">
-<meta property="og:url" content="https://gurudayal.github.io/">
-<meta name="twitter:card" content="summary_large_image">
-
 <!-- Hero -->
 <p align="center" style="margin-top:10px;">
   <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:66%; max-width:1100px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
@@ -35,7 +28,7 @@ permalink: /
 ---
 
 ## 👋 Hi — I’m **Guru Dayal**
-**SOC Analyst | Threat Hunter | Cybersecurity Enthusiast**  
+**SOC Analyst | Security Monitoring & Incident Response | Threat Hunter | Cybersecurity Enthusiast**  
 I build hands-on cybersecurity labs focused on detection engineering, simulating real attacks, automation, and threat hunting across Windows & Linux environments. My projects demonstrate SIEM-driven detection, MITRE ATT&CK mapping, and practical automation for SOC workflows.
 
 ---
