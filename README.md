@@ -141,7 +141,7 @@ https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 ---
 
 ## 📄 **Download My Resume**
-👉 [**Download Resume (PDF)**](/Guru_dayal_Resume.pdf)
+👉 [**Download Resume (PDF)**](Guru_dayal_Resume.pdf)
 
 ---
 
