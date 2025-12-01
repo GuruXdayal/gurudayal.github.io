@@ -1,0 +1,122 @@
+---
+title: "Guru Dayal — SOC Analyst | Security Monitoring & Incident Response | Threat Hunter"
+description: "A blue-team focused portfolio highlighting my work in detection engineering, threat hunting, and security operations."
+permalink: /
+---
+
+<!-- Link custom CSS -->
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<!-- SEO / Social Preview (OpenGraph + Twitter) -->
+<meta property="og:title" content="Guru Dayal — SOC Analyst & Threat Hunter">
+<meta property="og:description" content="Hands-on cybersecurity portfolio: detection engineering, threat hunting, and automation with Wazuh, Sysmon and n8n.">
+<meta property="og:image" content="/assets/images/banners/hero.png">
+<meta property="og:url" content="https://gurudayal.github.io/">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- Hero -->
+<p align="center" style="margin-top:10px;">
+  <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:66%; max-width:1100px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
+</p>
+
+<!-- Social bar -->
+<div style="display:flex;gap:8px;justify-content:center;margin:12px 0;">
+  <a href="https://www.linkedin.com/in/gurudayal-cybersecurity/" target="_blank" rel="noopener">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-GuruDayal-0A66C2?logo=linkedin&logoColor=white" style="height:30px;">
+  </a>
+  <a href="https://github.com/GuruXdayal" target="_blank" rel="noopener">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-GuruXdayal-181717?logo=github&logoColor=white" style="height:30px;">
+  </a>
+  <a href="mailto:gurudayal132@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-gurudayal132@gmail.com-D14836?logo=gmail&logoColor=white" style="height:30px;">
+  </a>
+</div>
+
+---
+
+## 👋 Hi — I’m **Guru Dayal**
+**SOC Analyst | Threat Hunter | Cybersecurity Enthusiast**  
+I build hands-on cybersecurity labs focused on detection engineering, simulating real attacks, automation, and threat hunting across Windows & Linux environments. My projects demonstrate SIEM-driven detection, MITRE ATT&CK mapping, and practical automation for SOC workflows.
+
+---
+
+## 🔍 Portfolio Purpose
+A blue-team–focused portfolio highlighting my work in detection engineering, threat hunting, automation, and SOC operations — aimed at showcasing job-ready skills for SOC L1 and Security Analyst roles.
+
+---
+
+## 🧩 Key Projects (featured)
+Each project includes attack simulation steps, telemetry evidence, hunting queries, detection tuning, and final analysis.
+
+### 🔹 **1. SOC Home Lab — Wazuh + Sysmon + Suricata**
+**Tagline:** *End-to-end SOC lab simulating four real attacks for detection engineering & threat hunting.*
+
+- Simulated Malicious file execution, Nmap scan detection, File Integrity Monitoring, SSH Brute-Force  
+- Built detection rules in Wazuh & analyzed Sysmon telemetry  
+- Performed ATT&CK-aligned threat hunts
+
+📂 **Repo:** https://github.com/GuruXdayal/SOC-Home-Lab
+
+### 🔹 **2. Automated AlertFlow — n8n + Wazuh SOAR Pipeline**
+**Tagline:** *Automated malware hash enrichment, file quarantine, and SOC reporting.*
+
+- Built a Python → n8n → VirusTotal automation pipeline  
+- Quarantined malicious files and generated HTML SOC reports  
+- Reduced manual triage from ~10 min to <5 min
+
+📂 **Repo:**  
+https://github.com/GuruXdayal/Automated-AlertFlow-Enrichment-Response-with-n8n-and-Wazuh
+
+### 🔹 **3. Endpoint Threat Hunting — Wazuh + Sysmon**
+**Tagline:** *Three deep-dive hunts: LSASS dump, PowerShell LOLBAS, malicious file execution.*
+
+- Performed ATT&CK hunts (T1003.001, T1059.001, T1204.002)  
+- Used Sysmon Event IDs, ScriptBlock logs, and Wazuh queries  
+- Documented full hunt methodology with hypotheses & findings  
+
+📂 **Repo:**  
+https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
+
+> 🔎 Full project directory and deeper documentation are available on the Respective **Projects** pages.
+
+---
+
+## 🛠️ Skills & Tools
+- **Security Operations:** SIEM (Wazuh), detection engineering, threat hunting, incident triage  
+- **Telemetry & Analysis:** Sysmon, Windows Event Logs, auditd, osquery, Suricata  
+- **Automation & Enrichment:** n8n, VirusTotal API, Python scripting  
+- **Platforms:** Windows, Ubuntu, Kali Linux, VMware  
+- **Scripting:** PowerShell, Bash (with AI-assisted script generation)  
+- **Other:** MITRE ATT&CK mapping, FIM, log correlation
+
+---
+
+## 🤖 How I Use AI to Work Smarter
+I use AI tools (ChatGPT, Claude, Grok, Gemini CLI) for:
+- generating accurate Wazuh / Sysmon queries and rules  
+- troubleshooting config issues and suggesting fixes  
+- drafting automation flows and parsing logic for n8n  
+- improving documentation and creating reproducible steps  
+
+I apply **prompt engineering** to convert investigative questions into precise instructions or queries — ensuring AI outputs are actionable and safe.
+
+---
+
+## 📄 Quick Wins & Highlights
+- Built 3 end-to-end SOC projects demonstrating detection engineering, hunting, and automation.  
+- Created automated enrichment & quarantine pipeline reducing manual triage time.  
+- Developed MITRE-mapped hunting playbooks and customized Wazuh rules.
+
+--- 
+
+## 📄 Download My Resume
+If you’d like a quick overview of my professional experience, skills, and project work, you can download my updated resume below.
+
+👉 **[Download Resume (PDF)](/Guru_dayal_Resume.pdf)**
+
+
+<hr style="margin-top:40px; opacity:0.3;">
+
+<p align="center" style="font-size:14px; color:#9fa3ad;">
+  © 2025 Guru Dayal • Built with ❤️ on GitHub Pages • <a href="https://github.com/GuruXdayal/gurudayal.github.io" style="color:#7FB7FF;">View Source</a>
+</p>
