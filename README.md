@@ -1,35 +1,3 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-
-<p align="center">
-  <img src="/assets/images/banners/hero.png" alt="Hero Banner" style="width:50%; border-radius:8px;">
-</p>
-
-<!-- Social / Header bar -->
-<div style="display:flex;gap:8px;justify-content:center;margin:12px 0;">
-  <a href="https://www.linkedin.com/in/gurudayal-cybersecurity/" target="_blank" rel="noopener">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-GuruDayal-0A66C2?logo=linkedin&logoColor=white" style="height:28px;">
-  </a>
-  <a href="https://github.com/GuruXdayal" target="_blank" rel="noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-GuruXdayal-181717?logo=github&logoColor=white" style="height:28px;">
-  </a>
-  <a href="mailto:gurudayal132@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-gurudayal132@gmail.com-D14836?logo=gmail&logoColor=white" style="height:28px;">
-  </a>
-</div>
-
-<!-- CTA buttons -->
-<div style="display:flex;gap:12px;justify-content:center;margin:16px 0;">
-  <a href="/projects/" style="text-decoration:none;">
-    <span style="background:#2b6fd6;color:#fff;padding:10px 16px;border-radius:8px;font-weight:600;">View Projects</span>
-  </a>
-  <a href="/Guru_dayal_Resume.pdf" style="text-decoration:none;">
-    <span style="background:#0b8a6b;color:#fff;padding:10px 16px;border-radius:8px;font-weight:600;">Download Resume (PDF)</span>
-  </a>
-  <a href="mailto:gurudayal132@gmail.com" style="text-decoration:none;">
-    <span style="background:#7a59e6;color:#fff;padding:10px 16px;border-radius:8px;font-weight:600;">Contact Me</span>
-  </a>
-</div>
-
 # 👋 Hi, I'm **Guru Dayal**
 
 ### **SOC Analyst | Security Monitoring & Incident Response | Threat Hunter**
@@ -55,8 +23,6 @@ I’m actively seeking roles such as:
 - **Cybersecurity Operations / Blue Team roles**
 
 I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
-
-🔎 [View Projects](/projects/) — Featured SOC labs & hunts
 
 ---
 
