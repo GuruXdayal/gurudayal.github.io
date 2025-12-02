@@ -9,11 +9,6 @@ author:
   name: "Guru Dayal"
   email: "gurudayal132@gmail.com"
 
-# URL settings
-# (Leave url/baseurl blank for user GitHub Pages: username.github.io)
-url: "https://GuruXdayal.github.io"
-baseurl: ""
-
 # Include custom CSS
 include:
   - assets/css/style.css
