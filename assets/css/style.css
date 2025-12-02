@@ -6,9 +6,7 @@
 
 /* --- Base / Body --- */
 :root{
-  --bg: #3469ed;
-  --card: #0f1720;
-  --muted: #9fa3ad;
+  --bg: rgba(15, 23, 32, 0.9); /* semi-transparent dark */
   --accent: #62a3ff;
   --accent-2: #7a59e6;
   --cta-green: #0b8a6b;
