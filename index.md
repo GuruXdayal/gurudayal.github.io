@@ -8,8 +8,8 @@ permalink: /
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <!-- Hero -->
-<p align="center" style="margin-top:10px;">
-  <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:66%; max-width:1100px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
+<p align="left" style="margin-top:10px;">
+  <img src="/assets/images/banners/hero.png" alt="SOC Home Lab Diagram" style="width:16%; max-width:800px; border-radius:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.45);">
 </p>
 
 <!-- Social bar -->
