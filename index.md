@@ -1,3 +1,9 @@
+---
+title: ""
+description: ""
+layout: default
+---
+
 <!-- Link custom CSS -->
 <link rel="stylesheet" href="/assets/css/style.css">
 
