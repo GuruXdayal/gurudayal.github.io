@@ -158,10 +158,12 @@ I apply **prompt engineering** to convert investigative questions into precise i
 --- 
 
 <section id="resume" class="section">  
+  
 ## 📄 Download My Resume
 If you’d like a quick overview of my professional experience, skills, and project work, you can download my updated resume below.
 
 👉 **[Download Resume (PDF)](/Guru_dayal_Resume.pdf)**
+
 </section>
 
 <hr style="margin-top:40px; opacity:0.3;">
