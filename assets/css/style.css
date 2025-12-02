@@ -6,7 +6,7 @@
 
 /* --- Base / Body --- */
 :root{
-  --bg: #09134d; /* matches --card */
+  --bg: #8cb0fa; /* matches --card */
   --accent: #0d61d9;
   --accent-2: #8e6ff2;
   --cta-green: #0b8a6b;
@@ -19,7 +19,7 @@ html,body {
   height: 100%;
   margin: 0;
   font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system, "Helvetica Neue", Arial;
-  background: linear-gradient(180deg, var(--bg) 0%, #09134d 100%);
+  background: linear-gradient(180deg, var(--bg) 0%, #8cb0fa 100%);
   color: #010208;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
