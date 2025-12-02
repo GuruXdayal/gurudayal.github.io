@@ -6,11 +6,11 @@
 
 /* --- Base / Body --- */
 :root{
-  --bg: #0f1720; /* matches --card */
+  --bg: #f0e15b; /* matches --card */
   --accent: #0d61d9;
   --accent-2: #8e6ff2;
   --cta-green: #0b8a6b;
-  --glass: #0f1720;
+  --glass: #3781d4;
   --radius: 10px;
   --max-width: 1100px;
 }
@@ -20,7 +20,7 @@ html,body {
   margin: 0;
   font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system, "Helvetica Neue", Arial;
   background: linear-gradient(180deg, var(--bg) 0%, #07101a 100%);
-  color: #e6eef8;
+  color: #13b80d;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
   line-height: 1.65;
