@@ -157,6 +157,6 @@ If you’d like a quick overview of my professional experience, skills, and proj
 
 <hr style="margin-top:40px; opacity:0.3;">
 
-<p align="center" style="font-size:14px; color:#c0ede0;">
-  © 2025 Guru Dayal • Built with ❤️ on GitHub Pages • <a href="https://github.com/GuruXdayal/gurudayal.github.io" style="color:#c0ede0;">View Source</a>
+<p align="center" style="font-size:14px; color:#381111;">
+  © 2025 Guru Dayal • Built with ❤️ on GitHub Pages • <a href="https://github.com/GuruXdayal/gurudayal.github.io" style="color:#381111;">View Source</a>
 </p>
