@@ -4,10 +4,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-# Site identity
-title: "Guru Dayal"
-description: "A blue-team focused portfolio highlighting my work in detection engineering, threat hunting, and security operations."
-
 # Author info (optional but good for SEO)
 author:
   name: "Guru Dayal"
