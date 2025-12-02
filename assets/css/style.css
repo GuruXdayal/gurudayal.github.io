@@ -225,3 +225,18 @@ code, pre { background: #071126; color:#cfe6ff; border-radius:6px; padding:6px 8
 .text-muted { color: var(--muted); font-size:0.95rem; }
 .center { text-align:center; }
 .small { font-size:0.92rem; color:var(--muted); }
+
+/* ---- Hide theme-generated site title link + "View My GitHub Profile" ---- */
+/* Hide the H1 link (site title) */
+header > h1, header > h1 a {
+  display: none !important;
+}
+
+/* Hide the "View My GitHub Profile" paragraph */
+header p.view, header .view {
+  display: none !important;
+}
+
+/* Small layout tweak: remove extra header spacing */
+header { padding: 0 !important; margin: 0 !important; }
+
