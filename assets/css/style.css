@@ -6,7 +6,7 @@
 
 /* --- Base / Body --- */
 :root{
-  --bg: #f0b067; /* matches --card */
+  --bg: #09134d; /* matches --card */
   --accent: #0d61d9;
   --accent-2: #8e6ff2;
   --cta-green: #0b8a6b;
@@ -19,7 +19,7 @@ html,body {
   height: 100%;
   margin: 0;
   font-family: "Inter", "Segoe UI", Roboto, system-ui, -apple-system, "Helvetica Neue", Arial;
-  background: linear-gradient(180deg, var(--bg) 0%, #f0b067 100%);
+  background: linear-gradient(180deg, var(--bg) 0%, #09134d 100%);
   color: #010208;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
@@ -113,13 +113,13 @@ h1 {
 }
 h2 {
   font-size:1.4rem;
-  color: #9ec0ff;
+  color: #0247c7;
   margin-top: 18px;
   margin-bottom: 10px;
 }
 h3 {
   font-size:1.05rem;
-  color: #d0defb;
+  color: #142954;
   margin-bottom:8px;
 }
 
