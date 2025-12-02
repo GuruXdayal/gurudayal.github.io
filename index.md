@@ -62,11 +62,13 @@ I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
 ---
 
 <section id="certifications" class="section">
+  
 ## 🏆 **Certifications**
 - **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) 
 - **Cisco — Introduction to Cybersecurity**  
 - **TryHackMe — Cybersecurity 101**  
 - **TryHackMe — SOC Level 1**
+  
 </section>
 
 ---
@@ -85,7 +87,9 @@ Each project includes:
 ✔ Full Documentation  
 
 ---
+
 <section id="projects" class="section">
+  
 ## 🧩 Key Projects (featured)
 Each project includes attack simulation steps, telemetry evidence, hunting queries, detection tuning, and final analysis.
 
@@ -119,6 +123,7 @@ https://github.com/GuruXdayal/Automated-AlertFlow-Enrichment-Response-with-n8n-a
 https://github.com/GuruXdayal/Endpoint-Threat-Hunting-with-Wazuh-Sysmon
 
 > 🔎 Full project directory and deeper documentation are available on the Respective **Projects** pages.
+
 </section>
 
 ---
@@ -152,13 +157,11 @@ I apply **prompt engineering** to convert investigative questions into precise i
 
 --- 
 
-<section id="resume" class="section">
-  
+<section id="resume" class="section">  
 ## 📄 Download My Resume
 If you’d like a quick overview of my professional experience, skills, and project work, you can download my updated resume below.
 
 👉 **[Download Resume (PDF)](/Guru_dayal_Resume.pdf)**
-
 </section>
 
 <hr style="margin-top:40px; opacity:0.3;">
