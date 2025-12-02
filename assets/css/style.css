@@ -6,11 +6,11 @@
 
 /* --- Base / Body --- */
 :root{
-  --bg: rgba(15, 23, 32, 0.9); /* semi-transparent dark */
-  --accent: #62a3ff;
-  --accent-2: #7a59e6;
+  --bg: #0f1720; /* matches --card */
+  --accent: #0d61d9;
+  --accent-2: #8e6ff2;
   --cta-green: #0b8a6b;
-  --glass: rgba(255,255,255,0.03);
+  --glass: #0f1720;
   --radius: 10px;
   --max-width: 1100px;
 }
