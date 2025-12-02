@@ -1,9 +1,3 @@
----
-title: "Guru Dayal — SOC Analyst | Security Monitoring & Incident Response | Threat Hunter"
-description: "A blue-team focused portfolio highlighting my work in detection engineering, threat hunting, and security operations."
-permalink: /
----
-
 <!-- Link custom CSS -->
 <link rel="stylesheet" href="/assets/css/style.css">
 
@@ -49,6 +43,14 @@ I’m actively seeking roles such as:
 - **Cybersecurity Operations / Blue Team roles**
 
 I have built **3 full SOC-ready projects** to demonstrate job-ready capability.
+
+---
+
+## 🏆 **Certifications**
+- **Certified Ethical Hacker (CEH)** — EC-Council (May 2025–June 2026) 
+- **Cisco — Introduction to Cybersecurity**  
+- **TryHackMe — Cybersecurity 101**  
+- **TryHackMe — SOC Level 1**
 
 ---
 
